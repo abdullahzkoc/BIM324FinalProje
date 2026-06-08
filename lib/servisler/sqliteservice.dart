@@ -40,7 +40,7 @@ class SqliteServisi {
       'soyad': 'Koç',
       'eposta': '030723051@izu.edu.tr',
       // Supabase entegrasyonuna kadar geçici bir profil ikonu
-      'profil_resmi_url': 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png' 
+      'profil_resmi_url': 'https://qmvpzwrioaliswiiqewn.supabase.co/storage/v1/object/public/spor_resimleri/vesika.jpg' 
     });
   }
 
